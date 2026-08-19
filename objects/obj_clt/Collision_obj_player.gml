@@ -1,2 +1,3 @@
 //colidiu com o player recomeca o jogo
-room_restart()
+room_goto(rm_intro1)
+audio_stop_all()
