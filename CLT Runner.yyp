@@ -10,6 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Font","folderPath":"folders/Font.yy","name":"Font","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Script","folderPath":"folders/Script.yy","name":"Script","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Room","folderPath":"folders/Room.yy","name":"Room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -25,8 +27,10 @@
   },
   "name":"CLT Runner",
   "resources":[
+    {"id":{"name":"fnt_texto","path":"fonts/fnt_texto/fnt_texto.yy",},},
     {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},},
+    {"id":{"name":"obj_contador","path":"objects/obj_contador/obj_contador.yy",},},
     {"id":{"name":"obj_criador","path":"objects/obj_criador/obj_criador.yy",},},
     {"id":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},},
     {"id":{"name":"obj_lanche","path":"objects/obj_lanche/obj_lanche.yy",},},
@@ -36,6 +40,7 @@
     {"id":{"name":"rm_intro3","path":"rooms/rm_intro3/rm_intro3.yy",},},
     {"id":{"name":"rm_intro4","path":"rooms/rm_intro4/rm_intro4.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"id":{"name":"scr_globais","path":"scripts/scr_globais/scr_globais.yy",},},
     {"id":{"name":"snd_musica1","path":"sounds/snd_musica1/snd_musica1.yy",},},
     {"id":{"name":"snd_musica2","path":"sounds/snd_musica2/snd_musica2.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},

@@ -1,4 +1,4 @@
-if (y >= 240)
+if (y >= 350)
 {
 	instance_destroy()
 }

@@ -11,4 +11,4 @@ else //se nao eu inverto a escala x
 	image_xscale = -1
 }
 
-vspeed = 1;
+vspeed = global.speedclt;
